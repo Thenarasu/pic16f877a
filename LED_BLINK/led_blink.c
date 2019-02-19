@@ -1,8 +1,8 @@
 /*-------------------------------------------------*/
-/*	Auhor	    : Thennarasu.D					   */
-/*	Date	    : 28june2018			           */
-/*	Filename    : led_blink.c	 				   */
-/*	Description : led blinking 					   */
+/*	Auhor	    : Thennarasu.D		   */
+/*	Date	    : 28june2018		   */
+/*	Filename    : led_blink.c	 	   */
+/*	Description : led blinking 		   */
 /*-------------------------------------------------*/
 
 
