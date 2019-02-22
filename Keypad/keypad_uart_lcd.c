@@ -1,3 +1,11 @@
+/*-------------------------------------------------------------------------*/
+/*	Author      : Thennarasu D					   */
+/*	Date	    : 10July2018					   */
+/*	Filename    : keypad_uart_lcd.c					   */
+/*	Description : keypad interface lcd and uart using pic16f877a       */
+/*-------------------------------------------------------------------------*/
+
+
 #include<htc.h>
 __CONFIG(FOSC_HS & WDTE_OFF & PWRTE_OFF & BOREN_ON & LVP_OFF);
 
